@@ -1,0 +1,13 @@
+.list-items {
+  background-color: hsla(151, 82%, 39%, 0.66);
+  font-size: 2em;
+  list-style: none;
+  color: hsla(228, 78%, 45%, 0.693);
+  text-align: center;
+  margin: 0px;
+}
+
+.list-items li:hover {
+    color: coral;
+    cursor: pointer;
+}
